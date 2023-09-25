@@ -1,0 +1,29 @@
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\bin\Debug\net7.0\tplApp.exe
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\bin\Debug\net7.0\tplApp.deps.json
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\bin\Debug\net7.0\tplApp.runtimeconfig.json
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\bin\Debug\net7.0\tplApp.dll
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\bin\Debug\net7.0\tplApp.pdb
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\tplApp.csproj.AssemblyReference.cache
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\tplApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\tplApp.AssemblyInfoInputs.cache
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\tplApp.AssemblyInfo.cs
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\tplApp.csproj.CoreCompileInputs.cache
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\tplApp.dll
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\refint\tplApp.dll
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\tplApp.pdb
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\tplApp.genruntimeconfig.cache
+C:\Users\egor5\OneDrive\Рабочий стол\tplApp\obj\Debug\net7.0\ref\tplApp.dll
+C:\Users\vilko\Desktop\tplApp\bin\Debug\net7.0\tplApp.exe
+C:\Users\vilko\Desktop\tplApp\bin\Debug\net7.0\tplApp.deps.json
+C:\Users\vilko\Desktop\tplApp\bin\Debug\net7.0\tplApp.runtimeconfig.json
+C:\Users\vilko\Desktop\tplApp\bin\Debug\net7.0\tplApp.dll
+C:\Users\vilko\Desktop\tplApp\bin\Debug\net7.0\tplApp.pdb
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\tplApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\tplApp.AssemblyInfoInputs.cache
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\tplApp.AssemblyInfo.cs
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\tplApp.csproj.CoreCompileInputs.cache
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\tplApp.dll
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\refint\tplApp.dll
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\tplApp.pdb
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\tplApp.genruntimeconfig.cache
+C:\Users\vilko\Desktop\tplApp\obj\Debug\net7.0\ref\tplApp.dll
